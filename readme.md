@@ -7,3 +7,5 @@
 7. Now we are downloading WordPress and putting it in var/www
 8. To work properly we need to specify and copy vhost.conf for apache and wp-config.php for WordPress
 9. After restarting apache we should see WordPress hosted on our machine 
+
+![alt text](https://github.com/OskarKozaczka/wordpress-ansible-automation/blob/main/wp.png?raw=true)
